@@ -1,0 +1,12 @@
+.elementor-44 .elementor-element.elementor-element-48b9425:not(.elementor-motion-effects-element-type-background), .elementor-44 .elementor-element.elementor-element-48b9425 > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-image: url("https://scottymack.github.io/mckmedia/wp-content/uploads/2019/08/background_home.png");background-position: center center;background-repeat: no-repeat;background-size: cover;}
+.elementor-44 .elementor-element.elementor-element-48b9425 {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;}
+.elementor-44 .elementor-element.elementor-element-48b9425 > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-44 .elementor-element.elementor-element-8c48dda > .elementor-container {min-height: 370px;}
+.elementor-44 .elementor-element.elementor-element-8c48dda:not(.elementor-motion-effects-element-type-background), .elementor-44 .elementor-element.elementor-element-8c48dda > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-image: url("https://scottymack.github.io/mckmedia/wp-content/uploads/2019/08/McKMedia-Logo-White.svg");background-position: center center;background-repeat: no-repeat;}
+.elementor-44 .elementor-element.elementor-element-8c48dda {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;}
+.elementor-44 .elementor-element.elementor-element-8c48dda > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-44 .elementor-element.elementor-element-bd67f78 {text-align: center;top: -9px;}
+.elementor-44 .elementor-element.elementor-element-bd67f78 .elementor-image img {width: 4vw;}
+.elementor-44 .elementor-element.elementor-element-bd67f78 > .elementor-widget-container {margin: -5% 0% 0% 0%;}
+body:not(.rtl) .elementor-44 .elementor-element.elementor-element-bd67f78 {left: 0px;}
+body.rtl .elementor-44 .elementor-element.elementor-element-bd67f78 {right: 0px;}
