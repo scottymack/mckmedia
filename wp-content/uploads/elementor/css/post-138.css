@@ -1,0 +1,6 @@
+.elementor-138 .elementor-element.elementor-element-f10b02d:not(.elementor-motion-effects-element-type-background), .elementor-138 .elementor-element.elementor-element-f10b02d > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-image: url("https://scottymack.github.io/mckmedia/wp-content/uploads/2019/08/background_sqaure.svg");background-position: center center;background-repeat: no-repeat;background-size: 70% auto;}
+.elementor-138 .elementor-element.elementor-element-f10b02d {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;}
+.elementor-138 .elementor-element.elementor-element-f10b02d > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+@media (min-width:768px) {.elementor-138 .elementor-element.elementor-element-5bbe544 {width: 10%;}
+	.elementor-138 .elementor-element.elementor-element-dc32c1b {width: 55%;}
+	.elementor-138 .elementor-element.elementor-element-a45d755 {width: 10%;}}
