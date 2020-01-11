@@ -6694,7 +6694,9 @@
                 var _ = p.a.extend({
                     validator: [ g.a.trimIfEmpty, g.a.validateForm ],
                     commit: function(e) {
-                        return e.url = "mckmedia.co/site/forms/" + l.a.page_id + "/" + s + "/", this;
+                        console.log(e.url)
+                        return e.url = "/site/forms/" + l.a.page_id + "/" + s + "/", this;
+                        console.log("AFTER" + e.url)
                     }
                 }).init(o);
                 _.on({
