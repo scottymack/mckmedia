@@ -6694,7 +6694,7 @@
                 var _ = p.a.extend({
                     validator: [ g.a.trimIfEmpty, g.a.validateForm ],
                     commit: function(e) {
-                        console.log(e.url)
+                        console.log(e)
                         return e.url = "/site/forms/" + l.a.page_id + "/" + s + "/", this;
                         console.log("AFTER" + e.url)
                     }
