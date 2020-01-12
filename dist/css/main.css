@@ -1503,7 +1503,7 @@ nav {
   align-items: center;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
   background-color: #FFFFFF;
-  height: 115px;
+  height: 70px;
   padding-bottom: 0px;
   padding-left: 3%;
   padding-right: 3%;
@@ -1532,7 +1532,7 @@ nav {
   display: none; }
 
 .logo-image img {
-  max-height: 170px; }
+  max-height: 70px; }
 
 .pf-nav-social {
   width: 40.5%; }
