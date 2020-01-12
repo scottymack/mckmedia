@@ -3750,6 +3750,7 @@
             }) : e.beforeSend = r, e;
         }
         return function(n) {
+            n.dataType = "jsonp"
             var i, o, s = new t();
             return "string" == typeof n && (n = {
                 url: n
@@ -6694,9 +6695,7 @@
                 var _ = p.a.extend({
                     validator: [ g.a.trimIfEmpty, g.a.validateForm ],
                     commit: function(e) {
-                        console.log(e)
-                        return e.url = "/site/forms/" + l.a.page_id + "/" + s + "/", this;
-                        console.log("AFTER" + e.url)
+                        return e.url = "https://hooks.zapier.com/hooks/catch/6469416/ohosv64/", this;
                     }
                 }).init(o);
                 _.on({
