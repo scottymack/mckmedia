@@ -87,20 +87,6 @@ html.lightbox-enabled body {
 
 @font-face {font-family: "MarydaleW01-Regular"; src: url("//db.onlinewebfonts.com/t/87492503b34912e5fd487464199e794a.eot"); src: url("//db.onlinewebfonts.com/t/87492503b34912e5fd487464199e794a.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/87492503b34912e5fd487464199e794a.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/87492503b34912e5fd487464199e794a.woff") format("woff"), url("//db.onlinewebfonts.com/t/87492503b34912e5fd487464199e794a.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/87492503b34912e5fd487464199e794a.svg#MarydaleW01-Regular") format("svg"); }
 
-div {
-    font-family: marydale;
-}
-
-#page-title {
-    font-family: marydale;
-}
-
-body {
-font-family: marydale, sans-serif;
-font-weight: 400;
-font-style: normal;
-}
-
 html.lightbox-zoomed .lightbox-content {
   cursor: zoom-out;
   overflow: auto; }
